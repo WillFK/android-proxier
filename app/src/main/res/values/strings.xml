@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android-proxier</string>
+    <string name="do_it">Do it!</string>
 </resources>

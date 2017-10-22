@@ -1,4 +1,4 @@
-package com.fk.android_proxier;
+package com.fk.proxier;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
